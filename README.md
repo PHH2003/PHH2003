@@ -11,7 +11,7 @@ I am a passionate software developer with a deep love for technology. My journey
 - 🌐 I'm always improving myself with each project I get my hands on.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,py,react,nodejs,postman,ts,vite,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,tailwind,js,py,ts,react,nodejs,fastapi,postman,mongodb,mysql)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
