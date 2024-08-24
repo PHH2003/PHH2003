@@ -6,7 +6,7 @@ I am a passionate software developer with a deep love for technology. My journey
 
 ## 🚀 About Me
 
-- 🔭 CI am currently pursuing a career in software development.
+- 🔭 I am currently pursuing a career in software development.
 - 📝 I develop websites and applications using HTML, CSS, JavaScript and Python.
 - 🌐 I'm always improving myself with each project I get my hands on.
 
@@ -24,7 +24,7 @@ I am a passionate software developer with a deep love for technology. My journey
 
 ## 📬 Get in Touch
 
-- Connect with me on [Gmail](hiep2003dev@gmail.com)
+- Connect with me on [Gmail](hiep2003dev@gmail.com) and [Linkedin](www.linkedin.com/in/hiepph25)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
