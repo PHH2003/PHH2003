@@ -24,7 +24,7 @@ I am a passionate software developer with a deep love for technology. My journey
 
 ## 📬 Get in Touch
 
-- Connect with me on [Gmail](hiep2003dev@gmail.com) and [Linkedin](https://www.linkedin.com/in/hiepph25)
+- Connect with me on [Gmail](mailto:hiep2003dev@gmail.com) and [Linkedin](https://www.linkedin.com/in/hiepph25)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
