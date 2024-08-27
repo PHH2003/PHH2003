@@ -8,7 +8,8 @@ I am a passionate software developer with a deep love for technology. My journey
 
 - 🔭 I am currently pursuing a career in software development.
 - 📝 I develop websites and applications using HTML, CSS, JavaScript and Python.
-- 🌐 I'm always improving myself with each project I get my hands on.
+- ✍️ I'm always improving myself with each project I get my hands on.
+- 🌐 View my website [click here](https://hiepph.vercel.app/)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=git,github,html,css,tailwind,js,py,ts,react,nodejs,fastapi,postman,mongodb,mysql)](https://skillicons.dev)
