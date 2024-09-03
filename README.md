@@ -12,7 +12,7 @@ I am a passionate software developer with a deep love for technology. My journey
 - 🌐 View my website [click here](https://hiepph.vercel.app/)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,tailwind,js,py,ts,react,nodejs,fastapi,postman,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,tailwind,js,py,ts,react,nodejs,fastapi,postman,mongodb,mysql,ubuntu)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
